@@ -1,0 +1,1 @@
+var CalHeatMap = function() {};
